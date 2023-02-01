@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-01T14:56:34.980Z" agent="5.0 (Windows)" etag="fm-jwRQPYlCgKlYVDqlO" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-01T15:25:47.373Z" agent="5.0 (Windows)" etag="8giVpMhrWQ2h7IrczKq3" version="20.8.13" type="github">
   <diagram name="Page-1" id="v3zqLWq09h8_ZXGXDr7u">
     <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -6,9 +6,6 @@
         <mxCell id="1" parent="0" />
         <mxCell id="MFMRLg5PjhZ8HoqlId7D-2" value="You go eat breakfast and go to school" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="140" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MFMRLg5PjhZ8HoqlId7D-11" value="You got yelled by your mom." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MFMRLg5PjhZ8HoqlId7D-12" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="30" width="100" height="60" as="geometry" />
@@ -46,11 +43,133 @@
             <mxPoint x="590" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MFMRLg5PjhZ8HoqlId7D-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MFMRLg5PjhZ8HoqlId7D-18" target="MFMRLg5PjhZ8HoqlId7D-11">
+        <mxCell id="MFMRLg5PjhZ8HoqlId7D-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MFMRLg5PjhZ8HoqlId7D-18" target="MFMRLg5PjhZ8HoqlId7D-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540" y="350" as="sourcePoint" />
-            <mxPoint x="590" y="300" as="targetPoint" />
+            <mxPoint x="170" y="380" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="MFMRLg5PjhZ8HoqlId7D-22" value="Walk or take the bus" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MFMRLg5PjhZ8HoqlId7D-23" value="Walk" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MFMRLg5PjhZ8HoqlId7D-24" value="Take the bus" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MFMRLg5PjhZ8HoqlId7D-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MFMRLg5PjhZ8HoqlId7D-25" target="MFMRLg5PjhZ8HoqlId7D-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MFMRLg5PjhZ8HoqlId7D-25" value="It was a rainy day, you walked and you got splashed by a car" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MFMRLg5PjhZ8HoqlId7D-26" value="You got yelled by your mom." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MFMRLg5PjhZ8HoqlId7D-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MFMRLg5PjhZ8HoqlId7D-27" target="MFMRLg5PjhZ8HoqlId7D-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MFMRLg5PjhZ8HoqlId7D-27" value="There was traffic and you were late to school" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MFMRLg5PjhZ8HoqlId7D-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MFMRLg5PjhZ8HoqlId7D-22" target="MFMRLg5PjhZ8HoqlId7D-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="480" as="sourcePoint" />
+            <mxPoint x="630" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MFMRLg5PjhZ8HoqlId7D-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MFMRLg5PjhZ8HoqlId7D-22" target="MFMRLg5PjhZ8HoqlId7D-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="340" as="sourcePoint" />
+            <mxPoint x="410" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MFMRLg5PjhZ8HoqlId7D-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MFMRLg5PjhZ8HoqlId7D-2" target="MFMRLg5PjhZ8HoqlId7D-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="260" as="sourcePoint" />
+            <mxPoint x="700" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MFMRLg5PjhZ8HoqlId7D-31" value="You missed your bus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MFMRLg5PjhZ8HoqlId7D-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MFMRLg5PjhZ8HoqlId7D-26" target="MFMRLg5PjhZ8HoqlId7D-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="480" as="sourcePoint" />
+            <mxPoint x="200" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MFMRLg5PjhZ8HoqlId7D-33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="510" as="sourcePoint" />
+            <mxPoint x="350" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MFMRLg5PjhZ8HoqlId7D-35" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MFMRLg5PjhZ8HoqlId7D-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="480" as="sourcePoint" />
+            <mxPoint x="300" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MFMRLg5PjhZ8HoqlId7D-38" value="You changed into your gym uniform in school" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MFMRLg5PjhZ8HoqlId7D-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MFMRLg5PjhZ8HoqlId7D-23" target="MFMRLg5PjhZ8HoqlId7D-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="510" as="sourcePoint" />
+            <mxPoint x="730" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MFMRLg5PjhZ8HoqlId7D-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MFMRLg5PjhZ8HoqlId7D-24" target="MFMRLg5PjhZ8HoqlId7D-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="460" as="sourcePoint" />
+            <mxPoint x="780" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MFMRLg5PjhZ8HoqlId7D-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MFMRLg5PjhZ8HoqlId7D-42" target="MFMRLg5PjhZ8HoqlId7D-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MFMRLg5PjhZ8HoqlId7D-42" value="You missed out on choosing your partner" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MFMRLg5PjhZ8HoqlId7D-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MFMRLg5PjhZ8HoqlId7D-44" target="MFMRLg5PjhZ8HoqlId7D-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MFMRLg5PjhZ8HoqlId7D-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MFMRLg5PjhZ8HoqlId7D-44" target="MFMRLg5PjhZ8HoqlId7D-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MFMRLg5PjhZ8HoqlId7D-44" value="Complain to teacher or stay quiet" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="760" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MFMRLg5PjhZ8HoqlId7D-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MFMRLg5PjhZ8HoqlId7D-46" target="MFMRLg5PjhZ8HoqlId7D-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MFMRLg5PjhZ8HoqlId7D-46" value="Complain to teacher" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="790" y="760" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MFMRLg5PjhZ8HoqlId7D-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MFMRLg5PjhZ8HoqlId7D-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MFMRLg5PjhZ8HoqlId7D-48" value="Stay quiet" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="920" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MFMRLg5PjhZ8HoqlId7D-50" value="Teacher allows to you to work with your friends" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="975" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MFMRLg5PjhZ8HoqlId7D-54" value="Stuck with a bad partner for the whole year" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1080" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
