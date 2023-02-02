@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-02T14:58:21.567Z" agent="5.0 (Windows)" etag="cke441oX9ats5PwxQ7lH" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-02T15:08:20.490Z" agent="5.0 (Windows)" etag="5uHgxlefr7HFBfwWJSWL" version="20.8.13" type="github">
   <diagram name="Page-1" id="v3zqLWq09h8_ZXGXDr7u">
     <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -159,6 +159,11 @@
         <mxCell id="MFMRLg5PjhZ8HoqlId7D-48" value="Stay quiet" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="920" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="MFMRLg5PjhZ8HoqlId7D-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MFMRLg5PjhZ8HoqlId7D-50" target="MFMRLg5PjhZ8HoqlId7D-96">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1175" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="MFMRLg5PjhZ8HoqlId7D-50" value="Teacher allows to you to work with your friends" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="975" y="770" width="120" height="60" as="geometry" />
         </mxCell>
@@ -277,6 +282,57 @@
             <mxPoint x="410" y="1500" as="sourcePoint" />
             <mxPoint x="460" y="1450" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="MFMRLg5PjhZ8HoqlId7D-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MFMRLg5PjhZ8HoqlId7D-96" target="MFMRLg5PjhZ8HoqlId7D-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MFMRLg5PjhZ8HoqlId7D-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.667;exitY=0.983;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MFMRLg5PjhZ8HoqlId7D-96" target="MFMRLg5PjhZ8HoqlId7D-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MFMRLg5PjhZ8HoqlId7D-96" value="You have to choose a project to work on" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MFMRLg5PjhZ8HoqlId7D-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MFMRLg5PjhZ8HoqlId7D-98" target="MFMRLg5PjhZ8HoqlId7D-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MFMRLg5PjhZ8HoqlId7D-98" value="Design a house model" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1095" y="920" width="105" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MFMRLg5PjhZ8HoqlId7D-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MFMRLg5PjhZ8HoqlId7D-99" target="MFMRLg5PjhZ8HoqlId7D-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MFMRLg5PjhZ8HoqlId7D-99" value="research on cancer" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1275" y="920" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MFMRLg5PjhZ8HoqlId7D-103" value="Your model broke at the last second before it was due" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1088" y="1060" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MFMRLg5PjhZ8HoqlId7D-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MFMRLg5PjhZ8HoqlId7D-106" target="MFMRLg5PjhZ8HoqlId7D-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MFMRLg5PjhZ8HoqlId7D-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MFMRLg5PjhZ8HoqlId7D-106" target="MFMRLg5PjhZ8HoqlId7D-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MFMRLg5PjhZ8HoqlId7D-106" value="While researching, you got cancer yourself somehow" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1277.5" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MFMRLg5PjhZ8HoqlId7D-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MFMRLg5PjhZ8HoqlId7D-108" target="MFMRLg5PjhZ8HoqlId7D-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MFMRLg5PjhZ8HoqlId7D-108" value="Keep researching" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="1210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MFMRLg5PjhZ8HoqlId7D-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MFMRLg5PjhZ8HoqlId7D-109" target="MFMRLg5PjhZ8HoqlId7D-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MFMRLg5PjhZ8HoqlId7D-109" value="Stop researching" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="1210" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MFMRLg5PjhZ8HoqlId7D-112" value="This was a dream the entire time and its time for you to go to school" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="1350" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="MFMRLg5PjhZ8HoqlId7D-116" value="You figure out the cure to cancer and then you woke up " style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="1340" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
